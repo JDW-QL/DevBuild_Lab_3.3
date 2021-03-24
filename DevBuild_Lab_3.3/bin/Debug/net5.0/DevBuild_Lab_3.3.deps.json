@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DevBuild_Lab_3.3/1.0.0": {
+        "runtime": {
+          "DevBuild_Lab_3.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevBuild_Lab_3.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

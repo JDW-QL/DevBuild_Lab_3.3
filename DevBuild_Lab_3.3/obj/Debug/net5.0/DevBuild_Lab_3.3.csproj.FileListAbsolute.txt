@@ -1,0 +1,16 @@
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.exe
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.deps.json
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.runtimeconfig.json
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.runtimeconfig.dev.json
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.dll
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\ref\DevBuild_Lab_3.3.dll
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\bin\Debug\net5.0\DevBuild_Lab_3.3.pdb
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.csprojAssemblyReference.cache
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.AssemblyInfoInputs.cache
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.AssemblyInfo.cs
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.csproj.CoreCompileInputs.cache
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.dll
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\ref\DevBuild_Lab_3.3.dll
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.pdb
+C:\Users\JWeiner\source\repos\DevBuild_Lab_3.3\DevBuild_Lab_3.3\obj\Debug\net5.0\DevBuild_Lab_3.3.genruntimeconfig.cache
